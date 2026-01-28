@@ -1,11 +1,8 @@
+# Six-DOF Robot Reinforcement Learning for Impedance Control
 ---
-
-# 6-DOF Robot Reinforcement Learning for Impedance Control
-
-**Author:** Md. Iqbal Hossain
+**Author**: Md. Iqbal Hossain
 **Project:** RL-guided Impedance Control for Safe Medical Robotics
 **Environment:** Python 3.9+, PyTorch, Stable-Baselines3
-
 ---
 
 ## Overview
@@ -51,8 +48,10 @@ All robot dynamics, kinematics, and controllers are simulated in Python, providi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/6dof-rl-robot.git
-cd 6dof-rl-robot
+git clone https://github.com/iqbal1282/6DOF-Robotic-Arm-Impedance-Control
+.git
+cd 6DOF-Robotic-Arm-Impedance-Control
+
 ```
 
 2. Create and activate a Python environment (recommended):
