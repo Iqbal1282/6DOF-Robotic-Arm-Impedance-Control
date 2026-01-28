@@ -1,6 +1,6 @@
 checkpoints/
 controllers/
-ppo_robot_impedance/
+ppo_robot_impedance*
 .env/
 .vscode/
 __pycache__/
