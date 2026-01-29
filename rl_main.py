@@ -47,7 +47,7 @@ def train():
 # ------------------------------
 # TEST FUNCTION
 # ------------------------------
-def test(model_path=MODEL_PATH, visualize=True):
+def test(model_path=f"{MODEL_PATH}.zip", visualize=True):
     env = make_env()
     model = PPO.load(model_path)
 
