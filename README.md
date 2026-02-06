@@ -126,6 +126,9 @@ python rl_main.py
 ---
 
 ### 2. Testing / Visualization
+![6-DOF robot impedance control comparison showing side-by-side 3D robot trajectories and performance metrics with and without reinforcement learning, including tracking error plots and external force measurements over 5 seconds](outputs/robot_comparison.gif)
+![3D visualization of 6-DOF robotic arm executing trained impedance control task with end-effector trajectory marked and joint positions highlighted in medical robotics environment](outputs/result.png)
+![Performance graphs displaying tracking error trends and external force response comparing baseline impedance control versus RL-adapted control across multiple episodes](outputs/graphs.png)  
 
 After training, the script automatically runs **test episodes** with **3D visualization**:
 
